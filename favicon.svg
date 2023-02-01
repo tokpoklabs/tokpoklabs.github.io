@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+  <g id="xiaofanglogo" transform="translate(-196 -141)">
+    <rect width="92" height="92" rx="20" transform="translate(196 141)" fill="#bd3454"/>
+    <g transform="translate(-9429.643 -1907.42)">
+      <path d="M9746.674,2102.638a13.8,13.8,0,0,1-13.782,13.783h-9.1v-4.127h9.1a9.654,9.654,0,1,0,0-19.309v-4.127A13.8,13.8,0,0,1,9746.674,2102.638Z" transform="translate(-53.006 -18.396)" fill="#fff"/>
+      <path d="M9758.551,2084.242a24.849,24.849,0,0,1-24.821,24.823h-9.935v-4.126h9.935a20.7,20.7,0,0,0,0-41.393v-4.127A24.851,24.851,0,0,1,9758.551,2084.242Z" transform="translate(-53.006 0)" fill="#fff"/>
+      <rect width="6.366" height="4.127" transform="translate(9665.314 2104.938)" fill="#c1b9be"/>
+      <rect width="6.366" height="4.127" transform="translate(9665.314 2093.898)" fill="#c1b9be"/>
+      <path d="M9673.5,2085.785H9661.2v50.2h-7.16v-50.2h-10.944v-7.03H9673.5v-4.126h-34.539v15.283h10.945v50.2h15.413v-50.2h8.181Z" transform="translate(0.001 -9.504)" fill="#fff"/>
+      <path d="M9731.031,2065.125l7.219-5.7v4.126l-7.219,5.705Z" transform="translate(-57.528 -0.001)" fill="#c1b9be"/>
+      <path d="M9731.031,2094.676l6.384-5.819v4.127l-6.384,5.818Z" transform="translate(-57.528 -18.395)" fill="#c1b9be"/>
+    </g>
+  </g>
+</svg>
